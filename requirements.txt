@@ -1,0 +1,6 @@
+# Core dependencies
+pytest==8.3.1
+
+# Optional: add black or flake8 for code formatting/linting
+# black==24.4.2
+# flake8==7.0.0
