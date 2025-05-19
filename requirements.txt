@@ -1,6 +1,6 @@
-# Core dependencies
-pytest==8.3.1
-
-# Optional: add black or flake8 for code formatting/linting
-# black==24.4.2
-# flake8==7.0.0
+iniconfig==2.1.0
+packaging==25.0
+pipfile==0.0.2
+pluggy==1.6.0
+pytest==8.3.5
+toml==0.10.2

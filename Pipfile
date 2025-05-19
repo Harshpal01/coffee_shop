@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+iniconfig = "==2.1.0"
+packaging = "==25.0"
+pipfile = "==0.0.2"
+pluggy = "==1.6.0"
+toml = "==0.10.2"
+pytest = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
